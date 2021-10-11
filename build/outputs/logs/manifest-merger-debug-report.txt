@@ -1,0 +1,69 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Amitpola\Desktop\trafficsenskannada\unityLibrary\UnityOBBDownloader\AndroidManifest.xml:2:1-18:12
+INJECTED from C:\Users\Amitpola\Desktop\trafficsenskannada\unityLibrary\UnityOBBDownloader\AndroidManifest.xml:2:1-18:12
+INJECTED from C:\Users\Amitpola\Desktop\trafficsenskannada\unityLibrary\UnityOBBDownloader\AndroidManifest.xml:2:1-18:12
+INJECTED from C:\Users\Amitpola\Desktop\trafficsenskannada\unityLibrary\UnityOBBDownloader\AndroidManifest.xml:2:1-18:12
+INJECTED from C:\Users\Amitpola\Desktop\trafficsenskannada\unityLibrary\UnityOBBDownloader\AndroidManifest.xml:2:1-18:12
+INJECTED from C:\Users\Amitpola\Desktop\trafficsenskannada\unityLibrary\UnityOBBDownloader\AndroidManifest.xml:2:1-18:12
+INJECTED from C:\Users\Amitpola\Desktop\trafficsenskannada\unityLibrary\UnityOBBDownloader\AndroidManifest.xml:2:1-18:12
+	package
+		ADDED from C:\Users\Amitpola\Desktop\trafficsenskannada\unityLibrary\UnityOBBDownloader\AndroidManifest.xml:4:5-44
+		INJECTED from C:\Users\Amitpola\Desktop\trafficsenskannada\unityLibrary\UnityOBBDownloader\AndroidManifest.xml
+		INJECTED from C:\Users\Amitpola\Desktop\trafficsenskannada\unityLibrary\UnityOBBDownloader\AndroidManifest.xml
+	android:versionName
+		ADDED from C:\Users\Amitpola\Desktop\trafficsenskannada\unityLibrary\UnityOBBDownloader\AndroidManifest.xml:6:5-30
+		INJECTED from C:\Users\Amitpola\Desktop\trafficsenskannada\unityLibrary\UnityOBBDownloader\AndroidManifest.xml
+		INJECTED from C:\Users\Amitpola\Desktop\trafficsenskannada\unityLibrary\UnityOBBDownloader\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Amitpola\Desktop\trafficsenskannada\unityLibrary\UnityOBBDownloader\AndroidManifest.xml:3:5-63
+	android:versionCode
+		ADDED from C:\Users\Amitpola\Desktop\trafficsenskannada\unityLibrary\UnityOBBDownloader\AndroidManifest.xml:5:5-28
+		INJECTED from C:\Users\Amitpola\Desktop\trafficsenskannada\unityLibrary\UnityOBBDownloader\AndroidManifest.xml
+		INJECTED from C:\Users\Amitpola\Desktop\trafficsenskannada\unityLibrary\UnityOBBDownloader\AndroidManifest.xml
+application
+ADDED from C:\Users\Amitpola\Desktop\trafficsenskannada\unityLibrary\UnityOBBDownloader\AndroidManifest.xml:7:5-11:19
+activity#com.unity3d.plugin.downloader.UnityDownloaderActivity
+ADDED from C:\Users\Amitpola\Desktop\trafficsenskannada\unityLibrary\UnityOBBDownloader\AndroidManifest.xml:8:9-90
+	android:name
+		ADDED from C:\Users\Amitpola\Desktop\trafficsenskannada\unityLibrary\UnityOBBDownloader\AndroidManifest.xml:8:19-87
+service#com.unity3d.plugin.downloader.UnityDownloaderService
+ADDED from C:\Users\Amitpola\Desktop\trafficsenskannada\unityLibrary\UnityOBBDownloader\AndroidManifest.xml:9:9-88
+	android:name
+		ADDED from C:\Users\Amitpola\Desktop\trafficsenskannada\unityLibrary\UnityOBBDownloader\AndroidManifest.xml:9:18-85
+receiver#com.unity3d.plugin.downloader.UnityAlarmReceiver
+ADDED from C:\Users\Amitpola\Desktop\trafficsenskannada\unityLibrary\UnityOBBDownloader\AndroidManifest.xml:10:9-85
+	android:name
+		ADDED from C:\Users\Amitpola\Desktop\trafficsenskannada\unityLibrary\UnityOBBDownloader\AndroidManifest.xml:10:19-82
+uses-permission#com.android.vending.CHECK_LICENSE
+ADDED from C:\Users\Amitpola\Desktop\trafficsenskannada\unityLibrary\UnityOBBDownloader\AndroidManifest.xml:12:5-73
+	android:name
+		ADDED from C:\Users\Amitpola\Desktop\trafficsenskannada\unityLibrary\UnityOBBDownloader\AndroidManifest.xml:12:22-70
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\Amitpola\Desktop\trafficsenskannada\unityLibrary\UnityOBBDownloader\AndroidManifest.xml:13:5-67
+	android:name
+		ADDED from C:\Users\Amitpola\Desktop\trafficsenskannada\unityLibrary\UnityOBBDownloader\AndroidManifest.xml:13:22-64
+uses-permission#android.permission.WAKE_LOCK
+ADDED from C:\Users\Amitpola\Desktop\trafficsenskannada\unityLibrary\UnityOBBDownloader\AndroidManifest.xml:14:5-68
+	android:name
+		ADDED from C:\Users\Amitpola\Desktop\trafficsenskannada\unityLibrary\UnityOBBDownloader\AndroidManifest.xml:14:22-65
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Users\Amitpola\Desktop\trafficsenskannada\unityLibrary\UnityOBBDownloader\AndroidManifest.xml:15:5-79
+	android:name
+		ADDED from C:\Users\Amitpola\Desktop\trafficsenskannada\unityLibrary\UnityOBBDownloader\AndroidManifest.xml:15:22-76
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from C:\Users\Amitpola\Desktop\trafficsenskannada\unityLibrary\UnityOBBDownloader\AndroidManifest.xml:16:5-75
+	android:name
+		ADDED from C:\Users\Amitpola\Desktop\trafficsenskannada\unityLibrary\UnityOBBDownloader\AndroidManifest.xml:16:22-73
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\Amitpola\Desktop\trafficsenskannada\unityLibrary\UnityOBBDownloader\AndroidManifest.xml:17:5-81
+	android:name
+		ADDED from C:\Users\Amitpola\Desktop\trafficsenskannada\unityLibrary\UnityOBBDownloader\AndroidManifest.xml:17:22-78
+uses-sdk
+INJECTED from C:\Users\Amitpola\Desktop\trafficsenskannada\unityLibrary\UnityOBBDownloader\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Amitpola\Desktop\trafficsenskannada\unityLibrary\UnityOBBDownloader\AndroidManifest.xml
+INJECTED from C:\Users\Amitpola\Desktop\trafficsenskannada\unityLibrary\UnityOBBDownloader\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\Amitpola\Desktop\trafficsenskannada\unityLibrary\UnityOBBDownloader\AndroidManifest.xml
+		ADDED from C:\Users\Amitpola\Desktop\trafficsenskannada\unityLibrary\UnityOBBDownloader\AndroidManifest.xml
+		INJECTED from C:\Users\Amitpola\Desktop\trafficsenskannada\unityLibrary\UnityOBBDownloader\AndroidManifest.xml
